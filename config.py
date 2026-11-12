@@ -41,10 +41,10 @@ load_dotenv()
 API_ID = int(getenv("API_ID", None))
 API_HASH = getenv("API_HASH", None)
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@Lovemeeeee07")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Pallavisarkr_bot")
+BOT_NAME = getenv("BOT_NAME" , "─‌⃛‌‌⃝❤️⎯᪵ 𝆺꯭𝅥𝐌𝐢꯭𝛅𝛅꯭ 𝐓꯭𝐡꯭꯭𝛂𝐤꯭𝐮꯭፝֟፝֟፝֟፝֟‌𝛑꯭𝐚𝐢꯭𝛈꯭꯭🛍️꯭᪰⎯,🍁⃝")
+ASSUSERNAME = getenv("ASSUSERNAME" , "─‌⃛‌‌⃝❤️⎯᪵ 𝆺꯭𝅥𝐌𝐢꯭𝛅𝛅꯭ 𝐓꯭𝐡꯭꯭𝛂𝐤꯭𝐮꯭፝֟፝֟፝֟፝֟‌𝛑꯭𝐚𝐢꯭𝛈꯭꯭🛍️꯭᪰⎯,🍁⃝")
 # ---------------------------------------------------------
 BASE_URL = getenv("BASE_URL", "https://BabyAPI.Pro")
 API_KEY = getenv("API_KEY", None)
@@ -57,7 +57,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC",
+    "https://github.com/pallavisarkaar07/SPOTIFY_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -65,10 +65,10 @@ GIT_TOKEN = getenv(
 )
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+gF7M1_0PC803ZjU9")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/YTM_Points")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC")
-CHAT = getenv("CHAT", "https://t.me/+q43QONRtkrg5NGFk")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RPShyariwold")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+-k8Y8mYrdSBjODI1")
+SOURCE = getenv("SOURCE", "https://github.com/pallavisarkaar07/SPOTIFY_MUSIC")
+CHAT = getenv("CHAT", "https://t.me/+-k8Y8mYrdSBjODI1")
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
