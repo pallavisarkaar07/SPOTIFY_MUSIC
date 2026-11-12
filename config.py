@@ -96,10 +96,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://raw.githubusercontent.com/BABY-MUSIC/SPOTIFY_MUSIC/main/SPOTIFY_MUSIC/assets/assets/public.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/c53d9a7df9dbaa5f4db05.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/0rm53h.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
